@@ -14,13 +14,13 @@ while status=="start":
     elif "where ru from" == user:
         print ("AI:iam from internet")
     elif "do you have friends" == user:
-        print ("yes,all users are my friends")
+        print ("AI:yes,all users are my friends")
     elif "what is your hobby?" == user:
-        print ("my hobby is chatting with people")
+        print ("AI:my hobby is chatting with people")
     elif "do u eat food" == user:
-        print(" no,i run on electricity")
+        print("AI:no,i run on electricity")
     elif "do u sleep" == user:
-        print ("no,iam always awake")
+        print ("AI:no,iam always awake")
     elif "bye" == user:
         status="stop"
     else:
